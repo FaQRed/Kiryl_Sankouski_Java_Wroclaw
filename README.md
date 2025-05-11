@@ -21,8 +21,6 @@ src/
 │   ├── PaymentMethod.java
 │   ├── PaymentOptimization.java
 │   └── Result.java
-└── test/
-    └── MainTest.java
 ```
 
 ## How to Run
